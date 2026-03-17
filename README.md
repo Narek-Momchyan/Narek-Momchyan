@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Narek! 👋
 
-<!--
-**Narek-Momchyan/Narek-Momchyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Full Stack Developer**
 
-Here are some ideas to get you started:
+I am a passionate web developer based in Yerevan, actively looking for new opportunities to build engaging and scalable web applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js
+* **Backend:** Python, Django
+* **Currently Learning:** C#, .NET
+
+### 🚀 Featured Projects
+* **E-commerce Restaurant Platform:** A modern web application built with Next.js.
+* **Netflix Clone:** A responsive UI clone built using React and Vite.
+
+### 📫 How to reach me
+* **Email:** narekmomchyan80@gmail.com
+* **LinkedIn:** [Տեղադրիր քո LinkedIn-ի հղումը այստեղ]
