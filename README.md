@@ -11,4 +11,4 @@ I am a passionate web developer based in Yerevan, actively looking for new oppor
 
 ### 📫 How to reach me
 * **Email:** narekmomchyan80@gmail.com
-* **LinkedIn:** [Տեղադրիր քո LinkedIn-ի հղումը այստեղ]
+* **LinkedIn:** https://www.linkedin.com/in/narek-momchyan-6410843ba/
