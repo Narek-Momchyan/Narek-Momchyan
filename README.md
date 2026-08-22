@@ -5,7 +5,7 @@
 I am a passionate web developer based in Yerevan, actively looking for new opportunities to build engaging and scalable web applications. 
 
 ### 🛠️ Tech Stack & Skills
-* **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js
+* **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js,TypeScript
 * **Backend:** Python, Django
 
 
